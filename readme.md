@@ -2,11 +2,10 @@
 
 Hey there, RFDGNFLers! We're gonna use use this absurdly complex piece of software to select our draft order this year (every year?) because why not.
 
-## How to Use this Beast
+## How I'm Running it
 
-1. Clone this repo, because we're old school like that.
-2. Run `ruby rfdgnfl_draft_order.rb` and watch the magic happen.
-3. The script will randomly generate an order for your draft, announce the lucky first picker with a fanfare, and the unlucky last picker with a sad trombone. Because we're all about the drama here.
+1. Run `ruby rfdgnfl_draft_order.rb` and watch the magic happen.
+2. The script will randomly generate an order for your draft, announce the lucky first picker with a fanfare, and the unlucky last picker with a sad trombone. Because we're all about the drama here.
 
 ## Requirements
 
