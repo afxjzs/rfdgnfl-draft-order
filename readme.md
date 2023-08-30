@@ -14,6 +14,6 @@ You'll need Ruby installed, and the 'mpg123' command line audio player. If you d
 
 ## Disclaimer
 
-This script was created by a programmer with too much time on their hands. It's not meant to be taken seriously. But hey, if it makes your draft day a little more fun, then it's done its job.
+This script was created by a programmer with too much time on their hands (Doug). It's open sourced so all you whiners can see that there's no funny stuff.
 
 Now go forth, and may the odds be ever in your favor.

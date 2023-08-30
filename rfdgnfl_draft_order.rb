@@ -82,6 +82,10 @@ sleep 5
 
 puts "\n\nThanks for watching! Tip your Commissioner!"
 
+sleep 3
+
+puts "\n\nSource code available at: https://github.com/afxjzs/rfdgnfl-draft-order"
+
 
 Process.kill("HUP", pid)
 Process.wait(pid)
