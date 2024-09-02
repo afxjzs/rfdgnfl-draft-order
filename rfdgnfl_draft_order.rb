@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # This is the main script for the Draft Order Generator
 # /Users/afxjzs/dev/projects/rfdgnfl_draft_order/rfdgnfl_draft_order.rb
 
@@ -38,8 +40,8 @@ _MM_    \\M\\_MM_     _MMMMMMM9'   YMMMM9  _M_      \\M _MM_     _MMMMMMM
 # Print the current year and the title of the event
 puts "#{Time.now.year} Official Draft Order Selection\n\n"
 
-# Define the draft order
-draft_order = ["Doug", "James", "Whitney", "Ben", "Jared", "Oliver", "Nick", "Adam", "Justin", "Chris", "Anthony", "Carlton", "Alvi", "Randy"]
+# Define the draft order list
+draft_order = ["Doug", "James", "Whitney", "Ben", "Jared", "Oliver", "Nick", "Adam", "Justin", "Chris", "Anthony", "Bpod", "Alvi", "Randy"]
 
 # Randomize the draft order
 randomized_order = draft_order.shuffle
